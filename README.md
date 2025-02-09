@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sathiyaseelan S</h1>
 <h3 align="center">🚀  A Passionate AI & Data Science Enthusiast 💡</h3>
 <p align="center">🚀  AI & Data Science Student | Flutter Freelancer | Tech Enthusiast 💡</p>  
-<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="370" height="260" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🎓 **B.Tech Artificial Intelligence And Data Science** — Kongu Engineering College (CGPA: 8.89)  
 - 📚 Transforming ideas into functional mobile applications using **Flutter**.  
@@ -12,6 +12,7 @@
 - 💻  Building **full-stack applications** that blend creativity with logic.  
 - 🔍 Solving real-world problems with technology and innovation.
 - 🎯 Mission: To bridge the gap between technology and user experience by developing smart and intuitive applications.
+<br/>
 <br/>
 <br/>
 
