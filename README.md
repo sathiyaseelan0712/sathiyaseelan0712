@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,mongodb,java,javascript,python,opencv,linux,java" />
-    <img src="hhttps://skillicons.dev/icons?i=c,express,postman,tensorflow,sqlite,flutter,figma,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=c,express,postman,tensorflow,sqlite,flutter,figma,vercel" /><br>
 </div>
 
 ---
@@ -48,7 +48,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/sathiyaseelan0712">
-          <img align="center" src="https://streak-stats.demolab.com?user=jsathiyaseelan0712&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=sathiyaseelan0712&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
