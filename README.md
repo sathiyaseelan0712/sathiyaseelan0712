@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sathiyaseelan0712.sathiyaseelan0712" />
+
 
 <h1 align="center">Hi 👋, I'm Sathiyaseelan S</h1>
 <h3 align="center">🚀  A Passionate AI & Data Science Enthusiast 💡</h3>
